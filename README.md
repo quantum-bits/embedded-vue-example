@@ -5,7 +5,7 @@
 1. Run `yarn serve` to run server.
 1. Navigate to one of the URLs shown.
    
-# Notes
+## Notes
 1. The server doesn't know anything about handling
    `POST` requests, so open Network tab on browser
    tools to see form request being posted.
